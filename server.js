@@ -126,9 +126,9 @@ client.on("guildCreate", guild => {
 client.on("ready", () => {
   const activities = [
     ["with dog", "PLAYING"],
-    ["to some jam", "LISTENING"],
+    ["some jam", "LISTENING"],
     ["time pass away", "WATCHING"],
-    ["to birds chirping", "LISTENING"],
+    ["birds chirping", "LISTENING"],
     ["clouds float away", "WATCHING"],
     ["in the rain", "PLAYING"]
   ];
