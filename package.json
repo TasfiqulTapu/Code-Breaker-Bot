@@ -1,0 +1,28 @@
+{
+  "name": "Code-Breaker-Bot",
+  "version": "1.0.0",
+  "description": "A discord bot made with node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "nedb": "^1.8.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/TasfiqulTapu/Code-Breaker-Bot"
+  },
+  "author":"Tasfiqul Tapu",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "discord-bot",
+    "cryptography"
+  ]
+}
