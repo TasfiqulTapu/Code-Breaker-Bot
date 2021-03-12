@@ -18,4 +18,11 @@ Here are the steps,
 
 Keep in mind your bot token should be kept secret and be careful who you share this with.
 
+## Some Secrets for you to find 
+- Name of the protagonist
+- Phone number of the protagnist's loved one 
+- The place where war broke out 
+- Secret plan on Boshca to win the war 
+- All of the endings.
+
 If theres any bug please let me know.  (๑•﹏•)
