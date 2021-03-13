@@ -4,7 +4,7 @@ A discord bot about cryptography. Made using node.js and discord.js.
 
 ## Inviting Bot
 
-Invite the bot by going through [this link](https://discord.com/oauth2/authorize?client_id=819531103807209503&scope=bot). (ﾉ＾∇＾)ﾉ♪
+Invite the bot by going through [this link](https://discord.com/oauth2/authorize?client_id=819531103807209503&scope=bot&permissions=3072). (ﾉ＾∇＾)ﾉ♪
 
 ## Setting Up the Bot
 
